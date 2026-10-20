@@ -9,3 +9,11 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 ✅ Report and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates insights and actionable recommendations to stakeholders.
 
+
+The Flow of doing the project(reading the file)-
+1-Analyse the customer_shopping_behavior
+2-EDA and Feature engineering in behavioralanalysis
+3-Final export file in After_Feature_Engineering...
+4-SQL query(did in google colab rather in MySQL)
+5-visualation the final dataset.
+
